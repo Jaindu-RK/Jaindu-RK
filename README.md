@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jaindukulasekara@gmail.com**
 
-- ⚡ Fun fact **Call me as sudda**
+- ⚡ Fun fact **Call me as Jaiya**
 
 </td>
 <td width="100%" align="center">
