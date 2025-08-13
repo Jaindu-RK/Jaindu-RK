@@ -58,6 +58,7 @@
 <p align="center">
 <a href="https://fb.com/jaindukulasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaindukulasekara" height="30" width="40" /></a>
 <a href="https://instagram.com/jaindukulasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaindukulasekara" height="30" width="40" /></a>
+<a href="https://instagram.com/jaindukulasekara" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="jaindukulasekara" height="30" width="40" /></a>
 </p>
 
 ---
