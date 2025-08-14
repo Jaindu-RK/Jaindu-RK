@@ -95,7 +95,13 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
+  </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Unity-Light.svg" alt="unity" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Blender-Dark.svg" alt="blender" width="40" height="40"/> 
   </a> 
 </p>
